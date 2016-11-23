@@ -1,3 +1,6 @@
+Problem: Given two natural numbers (both not greater than 200), each number in the separate line, please print the sum of them.
+
+Side Note:
 This is the solution to Test1 problem in Basic problem set. I would like to point out how I struggled initially when I
 tried submitting the code. My code was written in Java:
 
